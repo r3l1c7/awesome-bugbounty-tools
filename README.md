@@ -571,6 +571,7 @@
 - [proxify](https://github.com/projectdiscovery/proxify) - A versatile and portable proxy for capturing, manipulating, and replaying HTTP/HTTPS traffic on the go.
 - [FoxyProxy Browser Extension](https://github.com/foxyproxy/browser-extension) - FoxyProxy is an open-source, advanced proxy management tool that completely replaces Chrome's limited proxying capabilities.
 - [zaproxy](https://github.com/zaproxy/zaproxy) - ZAP is what is known as a “manipulator-in-the-middle proxy.” It stands between the tester’s browser and the web application so that it can intercept and inspect messages sent between browser and web application, modify the contents if needed, and then forward those packets on to the destination.
+- [Crusader](https://crusaderproxy.com) - A local-first web security proxy for HTTP/2 and WebSocket interception, mobile traffic capture with Frida cert-pinning bypass, response diffing, and IDOR/BOLA replay.
 
 ### Origin IP
 
